@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Nicolas Boullé"
+title                    : "Gustav Conradie"
 title_separator          : "-"
-name                     : &name "Nicolas Boullé"
-description              : &description "Assistant Professor at Imperial College London"
-url                      : https://nboulle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Gustav Conradie"
+description              : &description "PhD Student at University of Cambridge"
+url                      : https://gustavconradie1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "NBoulle/nboulle.github.io"
+repository               : "GustavConradie1/gustavconradie1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nicolas Boullé"
+  name             : "Gustav Conradie"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor at Imperial College London"
+  bio              : "PhD Student at University of Cambridge"
   location         : 
-  employer         : "Imperial College London"
+  employer         : "University of Cambridge"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=EWw0oakAAAAJ"
+  googlescholar    :  # example: "https://scholar.google.com/citations?user=EWw0oakAAAAJ"
   email            : "n.boulle@imperial.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "NBoulle"
+  github           : "GustavConradie1"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "nboulle"
-  orcid            : "http://orcid.org/0000-0002-1425-8307"
+  linkedin         : #"nboulle"
+  orcid            : "https://orcid.org/0009-0006-6547-1059"
   pinterest        :
   soundcloud       :
   stackoverflow    :
