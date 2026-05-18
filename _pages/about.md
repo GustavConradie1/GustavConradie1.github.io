@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the University of Cambridge supervised by Matthew Colbrook and Nicolas Boull\'e.
+I am a PhD student at the University of Cambridge supervised by Matthew Colbrook and Nicolas Boullé.
 
-My research interests lie at the intersection between numerical analysis and deep learning. I primarily focus on the mathematical foundations of deep learning to discover mathematical models (partial differential equations) from data, and the development of novel and theoretically justified numerical techniques.
+My background is predominantly in analysis and numerical analysis. The main topic of my PhD so far is verified data-driven computations for Koopman operators, including spectral properties and control, but I am also interested in contour methods, spectral geometry and numerical solution to PDEs.
