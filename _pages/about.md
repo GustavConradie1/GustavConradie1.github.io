@@ -93,7 +93,7 @@ My background is predominantly in analysis and numerical analysis. The main topi
   <div class="about-figures-grid">
     <figure class="about-figure about-figure--wide">
       <a class="about-figure-link" href="https://arxiv.org/abs/2603.15091">
-        <img src="/files/koopman.png" alt="Figure from Koopman operator learning work">
+        <img src="/files/trustworthy_koopman.png" alt="Figure from Koopman operator learning work">
         <figcaption>Trustworthy Koopman operator learning</figcaption>
       </a>
     </figure>
